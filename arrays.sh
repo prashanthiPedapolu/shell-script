@@ -1,6 +1,7 @@
 #!/bin/bash
 MOVIES=("hit1" "hit2" "hit3" "hit4" "hit5" "rrr")
-TIMESTAMP=$((date))
+TIMESTAMP=$(date "+%Y-%m-%d %H:%M:%S")
+
 echo "script executed: $TIMESTAMP"
 echo "all movies: ${MOVIES[0]}"
 echo "all movies: ${MOVIES[1]}"
