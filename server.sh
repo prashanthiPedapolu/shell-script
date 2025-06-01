@@ -21,5 +21,5 @@ exit1
 fi
 else
 echo "mysql is already installed nothing to do"
-exite 1
+exite 0
 fi
