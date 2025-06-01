@@ -5,4 +5,4 @@ TIMESTAMP=$((date))
 echo "script executed at $TIMESTAMP"
 SUM=$(($NAME+$AGE))
 
-ECHO "SUM of $NAME and $AGE IS: $SUM"
+echo "SUM of $NAME and $AGE is: $SUM"
