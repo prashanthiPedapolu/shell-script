@@ -1,3 +1,4 @@
 #!/bin/bash
-echo "proceses instance id: $$"
-echo "hello this is prashanthi"
+echo "proceses instance id :$$"
+echo "GREETINGS"
+echo "how are you "

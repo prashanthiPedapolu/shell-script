@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\roboshop-shell",
+    "\\roboshop-shell\\roboshop-shell"
   ],
+  "SelectedNode": "\\scripts1.sh",
   "PreviewInSolutionExplorer": false
 }
