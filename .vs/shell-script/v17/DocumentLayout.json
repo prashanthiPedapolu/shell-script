@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scripts1.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ammul\\devops\\shell-repo\\shell-script\\roboshop-shell\\mongodb1.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:roboshop-shell\\mongodb1.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ammul\\devops\\shell-repo\\shell-script\\scripts2.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scripts2.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ammul\\devops\\shell-repo\\shell-script\\roboshop-shell\\mongodb1.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:roboshop-shell\\mongodb1.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ammul\\devops\\shell-repo\\shell-script\\mongodb.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -106,7 +106,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "mongodb1.sh",
               "DocumentMoniker": "C:\\Users\\ammul\\devops\\shell-repo\\shell-script\\roboshop-shell\\mongodb1.sh",
               "RelativeDocumentMoniker": "roboshop-shell\\mongodb1.sh",
@@ -114,8 +114,7 @@
               "RelativeToolTip": "roboshop-shell\\mongodb1.sh",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|",
-              "WhenOpened": "2025-06-13T01:33:30.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T01:33:30.313Z"
             },
             {
               "$type": "Document",
@@ -127,18 +126,17 @@
               "RelativeToolTip": "mongodb.sh",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|",
-              "WhenOpened": "2025-06-13T01:31:26.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T01:31:26.803Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "scripts2.sh",
               "DocumentMoniker": "C:\\Users\\ammul\\devops\\shell-repo\\shell-script\\scripts2.sh",
               "RelativeDocumentMoniker": "scripts2.sh",
               "ToolTip": "C:\\Users\\ammul\\devops\\shell-repo\\shell-script\\scripts2.sh",
               "RelativeToolTip": "scripts2.sh",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|",
               "WhenOpened": "2025-06-13T01:26:24.731Z",
               "EditorCaption": ""
@@ -151,7 +149,7 @@
               "RelativeDocumentMoniker": "scripts1.sh",
               "ToolTip": "C:\\Users\\ammul\\devops\\shell-repo\\shell-script\\scripts1.sh",
               "RelativeToolTip": "scripts1.sh",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|",
               "WhenOpened": "2025-06-13T01:24:33.729Z",
               "EditorCaption": ""
