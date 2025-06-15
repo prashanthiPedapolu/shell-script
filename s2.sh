@@ -1,4 +1,3 @@
 #!/bin/bash
+echo "good morning"
 echo "proceses instance id :$$"
-echo "GREETINGS"
-echo "how are you "
